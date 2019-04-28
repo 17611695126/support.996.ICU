@@ -348,6 +348,7 @@ Supported by / 支持者:
 * WangYun, Senior Software Engineer, ThoughtWorks
 * warmcheng(钱程), Android Engineer, Beijing.China
 * Wayne Wang, Senior Premier Field Eigineer, Microsoft
+* Wei Wang,Software Engineer,Aisainfo
 * Weijie Hu, Software Engineer, ByteDance
 * Weilin Shi, Software Engineer, Vungle
 * Weiyou Zhu, Software Engineer, Shanghai.China
@@ -424,4 +425,3 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* Wei Wang,Aisainfo
